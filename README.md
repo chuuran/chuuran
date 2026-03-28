@@ -1,5 +1,5 @@
 <details>
-<summary> ${\color{#722F37}БОЛЕЕ}$ ${\color{#722F37}hellooo!!}$</summary>
+<summary> ${\color{#722F37}testing 001}$ ${\color{#722F37}testing 002}$</summary>
 
   -> <br>I am 18 years/o, minors INTWC !!<br>
   > <br>Alright with c+h<br>
